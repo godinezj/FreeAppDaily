@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="white">#FFFFFF</color>
+    <string name="app_name">Free App Daily</string>
+    <string name="action_settings">Settings</string>
+    <string name="free_app_notice">Press the button to check what\'s the latest free app in the Apazon AppStore.</string>
+    <string name="check_now">Check Now!</string>
+    <string name="eula">Eula txt here</string>
+    <string name="updates"></string>
+
+</resources>
